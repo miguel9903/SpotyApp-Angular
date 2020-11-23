@@ -1,0 +1,6 @@
+grant_type     client_credentials
+client_id      c73fc0da66a64211b90267c503581ca4 
+client_secret  8d3a0cf2757a43c8a6f5e01f17f788d0
+access_token   BQD5b4S-tLVy4sD9uVtfu_pg0vgvKzR7xnarG1OlN98xQf7rOaNkbMipRzS8TQfFjiedmVK1v1nVW4ru4YA
+
+https://api.spotify.com/v1/artists/3yVVL2EYLp8g7gT08VvYKy
